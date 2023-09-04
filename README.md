@@ -1,5 +1,6 @@
 ### 你好 这里是AngelHell的Github主页
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelhellwolf)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 近期活动
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Angelhellwolf&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
