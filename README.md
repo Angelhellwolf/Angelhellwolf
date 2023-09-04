@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Angelhellwolf)](https://git.io/streak-stats)
 
 <!--
 **Angelhellwolf/Angelhellwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
