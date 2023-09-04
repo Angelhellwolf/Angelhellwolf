@@ -1,23 +1,28 @@
-### 你好 这里是AngelHell的Github主页
+# 这里是Angel Hell (′▽`〃) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelhellwolf)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-### 近期活动
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Angelhellwolf&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## <img align="right" src="https://github-readme-stats.vercel.app/api?username=AngelHellWolf&count_private=true&show_icons=true">介绍：
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Angelhellwolf)](https://git.io/streak-stats)
+一个喜欢生物但是报考志愿的时候阴差阳错去了化工类的悲惨人士
 
-<!--
-**Angelhellwolf/Angelhellwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+爱玩的游戏 ***CSGO*** ***彩虹六号*** ***守望先锋*** ***战地全系列***
 
-Here are some ideas to get you started:
+目前就读于： 沈阳工业大学
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+当前目标：  数据结构  Java语言程序设计
+
+
+
+#### 喜欢动漫，爱听日语歌曲，不喜欢玩OSU つ﹏⊂ 
+
+
+
+---
+
+##### 这里将会阐述本页更新情况
+
+2023/9/4    开始粉刷此页
+
+
+
